@@ -5,7 +5,7 @@ The app includes public pages, authentication, protected routes, item listings, 
 
 🚀 Live Demo
 
-👉 Vercel Link: Add after deployment
+👉 Vercel Link: https://my-first-next-app-blush.vercel.app/
 👉 GitHub Repository: Add repo link
 
 📦 Tech Stack
