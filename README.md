@@ -112,3 +112,20 @@ my-first-next-app/
 │   │   └── ...other UI components
 │
 └── README.md
+
+### Route Summary
+Public Routes
+Route	Description
+/	Landing page with hero + sections
+/products	Product list (from Express backend)
+/products/[id]	Details page
+/about	About page
+/contact	Contact page
+Auth Routes
+Route	Description
+/login	Google + Credentials login
+/register	User registration
+Protected Routes
+Route	Description
+/add-product	Add new product
+/manage-products	Manage existing products
